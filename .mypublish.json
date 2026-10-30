@@ -1,0 +1,18 @@
+{
+  "name": "",
+  "owner": "",
+  "description": "Gus+ Mortgage Calculator",
+  "license": "MIT",
+  "author": "Gustavo Salazar",
+  "visibility": "public",
+  "version": "26.10.01",
+  "topics": [
+    "Mortgage Calculator"
+  ],
+  "release_assets": [],
+  "security_contact": "",
+  "ai_assisted": true,
+  "spdx_headers": true,
+  "online_lookup": true,
+  "api_url": ""
+}
